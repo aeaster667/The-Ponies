@@ -1,0 +1,4 @@
+Although we've decided for the game to be in 3D (though it will still be reminiscent of Sims 1 and be isometric), we will still need some 2D FX. This primarily includes:
+
+- Fire
+- Water Splashing (for ponies diving into pools)

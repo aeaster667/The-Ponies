@@ -1,0 +1,2 @@
+Roof textures will function just like floor textures, they will be in a 150x150 pixel PNG file, and the game will apply
+the texture to the game grid (basically making it into a pattern).

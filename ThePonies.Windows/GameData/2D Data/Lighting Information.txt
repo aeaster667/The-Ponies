@@ -1,0 +1,8 @@
+Game Lighting
+
+
+The game will use a shader to render morning/day/evening/night cycles, which will make the scene feel lively and detailed.
+
+Depending on the amount of light sources within a certain room (closed in area) the light will either be
+more dim or more bright. These particular light sources refer to lamps and placement of windows for the
+room.
