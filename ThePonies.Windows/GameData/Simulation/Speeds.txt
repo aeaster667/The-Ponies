@@ -1,0 +1,6 @@
+The game has 4 speed settings that change the simulation speed
+
+Pause (x0)
+Normal (x1)
+Fast (x3)
+Ultra (x10)
