@@ -1,0 +1,18 @@
+Skills
+
+Common:
+Cooking
+Mechanical
+Charisma
+Body
+Logic
+Creativity
+
+Pegasi Exclusive:
+Flying
+
+Earth Pony Exclusive:
+Agility
+
+Unicorns Exclusive:
+Magic
