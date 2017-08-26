@@ -1,0 +1,4 @@
+Ambiant: 1, 1, 1
+Diffuse: 0, 0, 0
+Specular: 0.05, 0.05, 0.05
+Shininess: 9000
