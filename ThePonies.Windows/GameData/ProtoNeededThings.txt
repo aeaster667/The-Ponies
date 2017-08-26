@@ -1,0 +1,38 @@
+The Ponies Prototype
+Needed things:
+
+1) Basic interactable objects
+   - Fridge
+   - Counter
+   - Oven
+   - Toilet
+   - Chair
+   - Table
+   - Bed
+   - Potted plant
+   - Table Lamp
+   - Mailbox
+   - Outdoor Trashcan
+   - Soda Can
+   - Potato Chips
+   - Pot (cooking pot, not weed xD)
+   - Cutting board with ingredients
+   - Knife for when pony cuts food
+   - Basic single meal plate
+   - Basic group meal plate
+   - Toilet plunger
+   - Toilet brush
+
+2) Functioning isometric camera
+   - 4 zoom levels, far, med 1, med 2, close
+   - 4 "rotate" angles
+   - Right-click and drag to pan camera
+
+3) Basic interactions
+   - Needed for ponies and objects, see ProtoInteractions.txt
+
+4) Basic primary UI
+   - Basic working live panel
+   - Basic working buy mode panel
+
+5) basic save function (not a priority yet, please no autosave tho)

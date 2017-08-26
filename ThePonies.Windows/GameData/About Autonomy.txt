@@ -1,0 +1,7 @@
+The Ponies will feature autonomy, meaning that all ponies will be able to randomly select their own interactions
+based on their needs, which will make the game world feel more alive. (However, autonomy can be turned off in the
+game settings.)
+
+Whatever pony is currently selected and being played will still have autonomy enabled, but will only take affect
+if there is no player intervention with the pony within a few seconds. Unplayed ponies will constantly be making
+their own interaction choices suitable for their needs and the liveliness of the world.

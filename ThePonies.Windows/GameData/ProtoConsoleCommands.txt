@@ -1,0 +1,25 @@
+Possible console commands (not case sensitive)
+
+MoveObjects [On/Off]
+Motherlode
+ - adds $50,000
+Rosebud/Kaching
+ - adds $1,000
+AddFunds [amount here]
+Testingcheats [True/False]
+ - this cheat will allow the player to access debugging and testing features, including object and character spawning, reset particular objects, modify pony data, etc.
+ResetLot
+ResetNhood
+ResetActivePony
+ResetTutorial
+Maxmotives
+displayPonyID
+displayPonySexPref
+vsync [On/Off]
+togglePlacementGrid [On/Off]
+toggleSoundEvent
+togglePrankCall
+setHour [amount here]
+setMinute [amount here]
+editLotGrid [On/Off]
+editActivePony

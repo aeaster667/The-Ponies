@@ -1,0 +1,69 @@
+Basic Needed Interactions
+*interactions not accessible to player in final game
+
+Fridge
+- Get Meal
+- Get Snack (gets potato chips)
+- Get Drink (gets soda)
+- Get Leftovers (if present)
+
+Toilet
+- Use
+- Flush
+- Clean
+- Unclog
+- *ForceClog
+- *ForceDirty
+- *ForceClean
+
+Chair
+- Sit
+
+Table
+- *Set down (used for food plates, and other holdable objects)
+
+Counter
+- *ForceDirty
+- *ForceClean
+- *Set down (same as for table)
+- Clean
+
+Cooking board with ingredients
+- Continue Cooking
+- Clean Up
+
+Single meal Plate
+- Eat
+- Clean Up
+
+Group meal Plate
+- Grab a plate
+- Clean up
+- Put away leftovers (requires fridge)
+
+Lamps (all)
+- Turn On
+- Turn Off
+
+Potted plants
+- View
+- Water
+- *ForceHealthy
+- *ForceWilted
+- *ForceDead
+
+Oven
+- Get Meal
+- *Cook (not normally selectable because it is done automatically)
+
+Soda can
+- Drink
+- Clean Up
+
+Chips
+- Eat
+- Clean Up
+
+Outdoor trash
+- *Throw Away (interaction begins with trash pile, then automatically switches to this)
+
