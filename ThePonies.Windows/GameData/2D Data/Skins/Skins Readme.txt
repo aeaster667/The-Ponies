@@ -1,1 +1,0 @@
-As you would guess, skins for all characters should be stored here. The pony default skin should be completely white so the game can use that as a base in Create-A-Pony so any color can be applied to it from the color wheel. Accessories for ponies like glasses or work clothes can have textures stored here, unless another location is more suitable.
