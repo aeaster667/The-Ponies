@@ -1,0 +1,1 @@
+Please put all character model textures in here, preferably organized (including body, mane and tail, eye, accessory, and cutie mark textures)
