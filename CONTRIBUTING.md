@@ -1,4 +1,4 @@
-Contributing Rules
+# Contributing Rules
 
 In order to contribute to this project, you must contact The Ponies Team first on the open server at https://discord.gg/kXUPHzG or email the project leader at aeast667@gmail.com about any inquiries of joining development. We are always looking for any new developers interested in helping the project, so we highly suggest choosing one of the options to contact us if you are interested. 
 
