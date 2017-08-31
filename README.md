@@ -6,7 +6,7 @@ Project aiming to create a free-to-play pony life simulator, inspired by the des
 # Looking for developers!
 
 Despite already having a team, we're always welcoming any developers interested in helping the game's development. The main things we're looking for include:
-  - C++, C# and Java programmers
+  - C# and Java programmers
   - 3D animators and modelers
   - Music artists
 
